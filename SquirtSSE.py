@@ -3,7 +3,7 @@ import http.client
 # User configurable variables
 ServerIP = '127.0.0.1'
 ServerPort = '9005'
-SSEEndPoint = '/api/v3/sse'
+SSEEndPoint = '/api/sse'
 ReqCompleteText = ['Failed', 'Successful']
 
 count = 0
